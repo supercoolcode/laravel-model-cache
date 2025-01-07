@@ -1,5 +1,5 @@
 {
-    "name": "cool/laravel-model-cache",
+    "name": "supercoolcode/laravel-model-cache",
     "description": "auto caching mode db",
     "type": "composer",
     "license": "MIT",
@@ -48,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Cool\\LaravelModelCache\\Providers\\Service"
+                "Xuhaohao\\LaravelModelCache\\Providers\\Service"
             ]
         }
     },
