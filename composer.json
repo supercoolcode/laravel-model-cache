@@ -17,8 +17,6 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://nova.laravel.com"
-        }
     ],
     "require": {
         "php": ">=8.1",
@@ -48,7 +46,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Xuhaohao\\LaravelModelCache\\Providers\\Service"
+                "Cool\\LaravelModelCache\\Providers\\Service"
             ]
         }
     },
