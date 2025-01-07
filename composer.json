@@ -17,6 +17,7 @@
     "repositories": [
         {
             "type": "composer"
+        }
     ],
     "require": {
         "php": ">=8.1",
