@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "repositories": [
         {
-            "type": "composer",
+            "type": "composer"
     ],
     "require": {
         "php": ">=8.1",
